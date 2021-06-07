@@ -1,2 +1,2 @@
 FROM node:14-alpine
-RUN apk add --no-cache autoconf
+RUN apk add --no-cache autoconf libtool
